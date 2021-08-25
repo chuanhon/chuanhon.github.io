@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #177862;
+  background: #032247;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2572,7 +2572,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("/images/setu1/1/2.jpg");
+  background: url("/images/setu/ct1/2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
